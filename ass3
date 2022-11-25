@@ -1,0 +1,5 @@
+total=0
+list=[76,96,35,63,26]
+for i in range(0,len(list)):
+total=total+list[i]
+print("sum of elements in list:",total)
