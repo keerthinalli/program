@@ -1,0 +1,6 @@
+list1=[87,9,46,86,7]
+min=list1[0]
+for i in list1:
+if i<=min:
+min=i
+print("min value=",min)
